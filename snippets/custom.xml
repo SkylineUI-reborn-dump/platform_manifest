@@ -38,7 +38,7 @@
   <!-- project path="external/jemalloc_new" name="external_jemalloc_new" groups="pdk" remote="PixelOS" / -->
 
   <!-- Frameworks -->
-  <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="PixelOS" />
+  <project path="frameworks/av" name="platform_frameworks_av" groups="pdk" remote="SkylineUI" />
   <project path="frameworks/base" name="platform_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="SkylineUI" />
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="PixelOS" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" groups="pdk" remote="PixelOS" />
