@@ -38,8 +38,6 @@
   <remove-project name="device/google/akita-kernels/5.15" />
   <remove-project name="device/google/akita-sepolicy" />
   <remove-project name="device/google/atv" />
-  <remove-project name="device/google/barbet" />
-  <remove-project name="device/google/barbet-sepolicy" />
   <remove-project name="device/google/bluejay" />
   <remove-project name="device/google/bluejay-kernels/5.10" />
   <remove-project name="device/google/bluejay-sepolicy" />
@@ -50,9 +48,6 @@
   <remove-project name="device/google/comet-kernels/6.1" />
   <remove-project name="device/google/comet-sepolicy" />
   <remove-project name="device/google/contexthub" />
-  <remove-project name="device/google/coral" />
-  <remove-project name="device/google/coral-kernel" />
-  <remove-project name="device/google/coral-sepolicy" />
   <remove-project name="device/google/felix" />
   <remove-project name="device/google/felix-kernels/5.10" />
   <remove-project name="device/google/felix-sepolicy" />
@@ -69,17 +64,9 @@
   <remove-project name="device/google/pantah-sepolicy" />
   <remove-project name="device/google/raviole" />
   <remove-project name="device/google/raviole-kernels/5.10" />
-  <remove-project name="device/google/redbull" />
-  <remove-project name="device/google/redbull-kernel" />
-  <remove-project name="device/google/redbull-sepolicy" />
-  <remove-project name="device/google/redfin" />
-  <remove-project name="device/google/redfin-sepolicy" />
   <remove-project name="device/google/shusky" />
   <remove-project name="device/google/shusky-kernels/5.15" />
   <remove-project name="device/google/shusky-sepolicy" />
-  <remove-project name="device/google/sunfish" />
-  <remove-project name="device/google/sunfish-kernel" />
-  <remove-project name="device/google/sunfish-sepolicy" />
   <remove-project name="device/google/tangorpro" />
   <remove-project name="device/google/tangorpro-kernels/5.10" />
   <remove-project name="device/google/tangorpro-sepolicy" />
@@ -149,7 +136,6 @@
   <remove-project name="platform/packages/modules/common" />
   <remove-project name="platform/packages/modules/Connectivity" />
   <remove-project name="platform/packages/modules/NetworkStack" />
-  <remove-project name="platform/packages/modules/Virtualization" />
   <remove-project name="platform/packages/modules/Wifi" />
   <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/services/Telephony" />
