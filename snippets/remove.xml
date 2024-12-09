@@ -28,9 +28,7 @@
   <remove-project name="device/generic/mini-emulator-armv7-a-neon" />
   <remove-project name="device/generic/mini-emulator-x86" />
   <remove-project name="device/generic/mini-emulator-x86_64" />
-  <remove-project name="device/generic/opengl-transport" />
   <remove-project name="device/generic/trusty" />
-  <remove-project name="device/generic/uml" />
   <remove-project name="device/generic/x86" />
   <remove-project name="device/generic/x86_64" />
   <remove-project name="device/google_car" />
@@ -71,7 +69,6 @@
   <remove-project name="device/google/tangorpro-kernels/5.10" />
   <remove-project name="device/google/tangorpro-sepolicy" />
   <remove-project name="device/google/trout" />
-  <remove-project name="device/google/vrservices" />
   <remove-project name="device/google/zuma" />
   <remove-project name="device/google/zuma-sepolicy" />
   <remove-project name="device/google/zumapro" />
@@ -116,15 +113,6 @@
   <remove-project name="platform/hardware/google/pixel-sepolicy" />
   <remove-project name="platform/hardware/interfaces" />
   <remove-project name="platform/hardware/libhardware" />
-  <remove-project name="platform/hardware/qcom/audio" />
-  <remove-project name="platform/hardware/qcom/camera" />
-  <remove-project name="platform/hardware/qcom/data/ipacfg-mgr" />
-  <remove-project name="platform/hardware/qcom/display" />
-  <remove-project name="platform/hardware/qcom/gps" />
-  <remove-project name="platform/hardware/qcom/media" />
-  <remove-project name="platform/hardware/qcom/sm7150/gps" />
-  <remove-project name="platform/hardware/qcom/sm7250/gps" />
-  <remove-project name="platform/hardware/qcom/sm8150/gps" />
   <remove-project name="platform/hardware/qcom/wlan" />
   <remove-project name="platform/hardware/ril" />
 
